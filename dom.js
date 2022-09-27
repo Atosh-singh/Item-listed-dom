@@ -55,6 +55,7 @@
 
 // createElement
 
+/*
 // create a div
 let newDiv = document.createElement("div");
 // Add class
@@ -112,3 +113,4 @@ newLi.appendChild(newText);
 // var itemListss = '<li>Helo</li>+itemList.innerHTML;
 // console.log(itemListss);
 // console.log(newLi);
+*/
